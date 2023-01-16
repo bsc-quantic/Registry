@@ -6,3 +6,6 @@ Combinatorics = "1"
 Luxor = "3.5.0-3"
 MathTeXEngine = "0.5"
 SimpleWeightedGraphs = "1.2.0-1"
+
+["0.1.2-0"]
+Requires = "1"
