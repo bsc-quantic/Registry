@@ -17,6 +17,8 @@ jobs:
         )"
         echo "repository=$REPOSITORY" >> $GITHUB_ENV
         echo "[ Info: repository=$REPOSITORY ]"
+      env:
+        GH_TOKEN: ${{ github.token }}
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v2
       with:
