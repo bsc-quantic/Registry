@@ -15,3 +15,4 @@ jobs:
         with:
           destination_branch: "master"
           pr_label: "register"
+          github_token: ${{ secrets.REGISTRY_TOKEN }}
