@@ -1,0 +1,25 @@
+name: Trigger TagBot on Package
+on:
+  pull_request:
+    types:
+      - closed
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged && contains( github.event.pull_request.labels.*.name, 'register' )
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        export REPOSITORY="$( \
+          gh pr view --json body --template {{.}} | \
+          grep "^Repo:" | \
+          sed 's/^Repo:[[:space:]]https:\/\/github.com\///' | \
+          tr -d '\n' \
+        )"
+        echo "repository=$REPOSITORY" >> $GITHUB_ENV
+        echo "[ Info: repository=$REPOSITORY ]"
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        event-type: trigger_tagbot
+        repository: ${{ env.repository }}
+        token: ${{ secrets.TAGBOT_TOKEN }}
