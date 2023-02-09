@@ -2,7 +2,7 @@ name: Open PR on registration
 on:
   push:
     branches:
-      - "register/*"
+      - "register/**"
 permissions:
   pull-requests: write
 jobs:
