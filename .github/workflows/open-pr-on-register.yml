@@ -1,0 +1,17 @@
+name: Open PR on registration
+on:
+  push:
+    branches:
+      - "register/*"
+permissions:
+
+jobs:
+  pull-request:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Open Pull Request
+        uses: repo-sync/pull-request@v2
+        with:
+          destination_branch: "master"
+          pr_label: "register","auto"
