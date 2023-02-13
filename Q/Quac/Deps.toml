@@ -9,3 +9,6 @@ SimpleWeightedGraphs = "47aef6b3-ad0c-573a-a1e2-d07658019622"
 
 ["0.1.2-0"]
 Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+
+["0.2-0"]
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
