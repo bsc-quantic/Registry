@@ -4,7 +4,7 @@ permissions:
   pull-requests: write
 jobs:
   Registrator:
-    if: ${{ startsWith(github.ref, "refs/heads/registrator") }}
+    if: ${{ startsWith(github.ref, 'refs/heads/registrator') }}
     runs-on: ubuntu-latest
     steps:
       - name: Open Pull Request
