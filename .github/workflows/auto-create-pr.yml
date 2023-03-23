@@ -10,6 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Open Pull Request
-        run: gh pr create --base master --head ${{ github.ref_name }} --fill
+        run: |
+          git checkout ${{ github.ref_name }}
+          gh pr create --fill
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
