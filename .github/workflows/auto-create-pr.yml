@@ -1,3 +1,4 @@
+name: Register package PR
 on:
   create:
 permissions:
