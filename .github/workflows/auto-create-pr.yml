@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Open Pull Request
-        run: gh pr create -B master -H ${{ github.ref_name }}
+        run: gh pr create --base master --head ${{ github.ref_name }} --fill
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
