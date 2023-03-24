@@ -12,6 +12,6 @@ jobs:
       - name: Open Pull Request
         run: |
           git checkout ${{ github.ref_name }}
-          gh pr create --fill
+          gh pr create --title "`git log -1 --pretty=%s`" --body="`git log -1 --pretty=%b`"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
