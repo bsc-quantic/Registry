@@ -9,7 +9,8 @@ on:
     - cron: 0 0 * * 1
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
+  pull-requests: write
 defaults:
   run:
     shell: bash
