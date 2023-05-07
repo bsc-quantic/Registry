@@ -1,0 +1,4 @@
+["0.1.1-0"]
+ChainRulesCore = "1.15.0-1"
+Makie = "*"
+Quac = "0.2"
