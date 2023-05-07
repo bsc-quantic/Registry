@@ -1,11 +1,25 @@
 [0]
 Combinatorics = "1"
 DeltaArrays = "0.1"
-GraphMakie = "0.4"
 Graphs = "1.7.0-1"
-Makie = "0.18"
 OMEinsum = "0.7"
+Requires = "1.3.0-1"
+
+["0-0.1.0"]
+GraphMakie = "0.4"
+Makie = "0.18"
 OptimizedEinsum = "0.1.1-0.1"
 Quac = "0.1"
-Requires = "1.3.0-1"
 julia = "1.6.0-1"
+
+["0.1.1-0"]
+ChainRulesCore = "1.15.0-1"
+EinExprs = "0.1.1-0.1"
+GraphMakie = "*"
+IterTools = "1.4.0-1"
+Makie = "*"
+NetworkLayout = "*"
+Permutations = "0.4"
+Quac = "0.2"
+Tensors = "0.1"
+julia = "1.8.0-1"
