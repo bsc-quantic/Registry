@@ -110,6 +110,6 @@ jobs:
           branch: 'update_manifests/single_pr/all_manifests'
           commit-message: '🤖 Update one or more manifest files in the `.ci` directory'
           title: '🤖 Update one or more manifest files in the `.ci` directory'
-          body: ''
+          body: 'One or more manifest files can be updated!'
           labels: |
             CI
