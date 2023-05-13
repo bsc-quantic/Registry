@@ -27,5 +27,6 @@ jobs:
           CompatHelper.main(; subdirs)
         shell: julia --color=yes {0}
         env:
+          GIT_COMMITTER_NAME: "CompatHelper Julia"
+          GIT_COMMITTER_EMAIL: "compathelper_noreply@julialang.org"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMPATHELPER_PRIV: ${{ secrets.DOCUMENTER_KEY }}
