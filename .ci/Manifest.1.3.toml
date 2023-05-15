@@ -210,9 +210,9 @@ version = "1.2.1"
 
 [[RegistryCI]]
 deps = ["Base64", "Dates", "GitHub", "HTTP", "JSON", "LibGit2", "LicenseCheck", "Pkg", "Printf", "Random", "RegistryTools", "SHA", "StringDistances", "TOML", "Tar", "Test", "TimeZones", "VisualStringDistances"]
-git-tree-sha1 = "3c30730b00140313615d42930ddc40860544c643"
+git-tree-sha1 = "531ccb851a150fb9a913bd6abd2d7892841a740b"
 uuid = "0c95cc5f-2f7e-43fe-82dd-79dbcba86b32"
-version = "8.3.0"
+version = "8.4.0"
 
 [[RegistryTools]]
 deps = ["AutoHashEquals", "LibGit2", "Pkg", "SHA", "UUIDs"]
