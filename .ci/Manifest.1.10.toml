@@ -88,9 +88,9 @@ version = "5.8.2"
 
 [[deps.HTTP]]
 deps = ["Base64", "CodecZlib", "ConcurrentUtilities", "Dates", "Logging", "LoggingExtras", "MbedTLS", "NetworkOptions", "OpenSSL", "Random", "SimpleBufferStream", "Sockets", "URIs", "UUIDs"]
-git-tree-sha1 = "ba9eca9f8bdb787c6f3cf52cb4a404c0e349a0d1"
+git-tree-sha1 = "5e77dbf117412d4f164a464d610ee6050cc75272"
 uuid = "cd3eb016-35fb-5094-929b-558a96fad6f3"
-version = "1.9.5"
+version = "1.9.6"
 
 [[deps.InlineStrings]]
 deps = ["Parsers"]
@@ -337,9 +337,9 @@ uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [[deps.TimeZones]]
 deps = ["Dates", "Downloads", "InlineStrings", "LazyArtifacts", "Mocking", "Printf", "RecipesBase", "Scratch", "Unicode"]
-git-tree-sha1 = "a5404eddfee0cf451cabb8ea8846413323712e25"
+git-tree-sha1 = "cdaa0c2a4449724aded839550eca7d7240bb6938"
 uuid = "f269a46b-ccf7-5d73-abea-4c690281aa53"
-version = "1.9.2"
+version = "1.10.0"
 
 [[deps.TranscodingStreams]]
 deps = ["Random", "Test"]
