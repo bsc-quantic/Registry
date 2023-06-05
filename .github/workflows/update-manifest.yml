@@ -111,5 +111,7 @@ jobs:
           commit-message: '🤖 Update one or more manifest files in the `.ci` directory'
           title: '🤖 Update one or more manifest files in the `.ci` directory'
           body: 'One or more manifest files can be updated!'
+          team-reviewers: |
+            software
           labels: |
             CI
