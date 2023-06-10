@@ -34,7 +34,11 @@ jobs:
             ${{ runner.os }}-test-${{ env.cache-name }}-
             ${{ runner.os }}-test-
             ${{ runner.os }}-
-      - run: julia --color=yes -e 'import Pkg; Pkg.Registry.add("General")'
+      - run: |
+          using Pkg
+          Pkg.Registry.add("General")
+          Pkg.Registry.add(RegistrySpec(url = "https://github.com/bsc-quantic/Registry.git"))
+        shell: julia --color=yes {0}
         env:
           JULIA_PKG_SERVER: ""
       - run: julia --color=yes -e 'import Pkg; Pkg.Registry.update()'
