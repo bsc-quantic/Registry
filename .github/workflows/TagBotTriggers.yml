@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3 # v3.3.0
+      - run: chmod +x .ci/instantiate.sh
       - run: |
           using Pkg
           Pkg.Registry.add("General")
