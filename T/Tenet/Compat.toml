@@ -13,13 +13,24 @@ Quac = "0.1"
 julia = "1.6.0-1"
 
 ["0.1.1-0"]
+IterTools = "1.4.0-1"
+Permutations = "0.4"
+Quac = "0.2"
+julia = "1.8.0-1"
+
+["0.1.1-0.1"]
 ChainRulesCore = "1.15.0-1"
 EinExprs = "0.1.1-0.1"
 GraphMakie = "*"
-IterTools = "1.4.0-1"
 Makie = "*"
 NetworkLayout = "*"
-Permutations = "0.4"
-Quac = "0.2"
 Tensors = "0.1"
-julia = "1.8.0-1"
+
+["0.2-0"]
+Bijections = "0.1"
+EinExprs = "0.2"
+GraphMakie = "0.4-0.5"
+Makie = "0.18-0.19"
+NetworkLayout = "0.4"
+Tensors = "0.1.4-0.1"
+ValSplit = "0.1"
