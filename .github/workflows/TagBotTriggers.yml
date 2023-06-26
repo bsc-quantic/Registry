@@ -31,4 +31,4 @@ jobs:
           private_key: ${{ secrets.NISUS_PRIVATE_KEY }}
       - run: julia --project=.ci -e 'using RegistryCI.TagBot; TagBot.main()'
         env:
-          GITHUB_TOKEN: ${{ secrets.generate_token.outputs.token }}
+          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
