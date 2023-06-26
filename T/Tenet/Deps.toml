@@ -14,10 +14,16 @@ Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 OptimizedEinsum = "c9cfed12-e746-47c4-860d-affc68c43467"
 
 ["0.1.1-0"]
-ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
 EinExprs = "b1794770-133b-4de1-afb4-526377e9f4c5"
 IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 Tensors = "a57d67a0-4683-47ff-be60-6114e830558b"
 UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
+
+["0.1.1-0.1"]
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+
+["0.2-0"]
+Bijections = "e2ed5e7c-b2de-5872-ae92-c73ca462fb04"
+ValSplit = "0625e100-946b-11ec-09cd-6328dd093154"
