@@ -32,8 +32,8 @@ jobs:
         arch:
           - x64
     steps:
-      - uses: actions/checkout@24cb9080177205b6e8c946b17badbe402adc938f # v3.3.0
-      - uses: julia-actions/setup-julia@f40c4b69330df1d22e7590c12e76dc2f9c66e0bc # v1.9.2
+      - uses: actions/checkout@v3
+      - uses: julia-actions/setup-julia@v1
         with:
           version: ${{ matrix.version }}
           arch: ${{ matrix.arch }}
@@ -49,7 +49,7 @@ jobs:
         if: ${{ matrix.version != 'nightly' }}
       - run: chmod +x .ci/instantiate.sh
       - name: Cache artifacts and packages
-        uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3.3.1
+        uses: actions/cache@v3
         env:
           cache-name: cache-artifacts
         with:
