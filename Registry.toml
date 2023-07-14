@@ -4,6 +4,7 @@ repo = "git@github.com:bsc-quantic/Registry.git"
 description = "Registry of packages developed at BSC-Quantic group"
 
 [packages]
+0dfb065c-ad45-4a42-9a50-cb82c165eb0b = { name = "QuacIO", path = "Q/QuacIO" }
 21fe5c4b-a943-414d-bf3e-516f24900631 = { name = "Muscle", path = "M/Muscle" }
 6bcc0789-44bc-4f47-9004-c8ca82614e89 = { name = "Lexers", path = "L/Lexers" }
 85d41934-b9cd-44e1-8730-56d86f15f3ec = { name = "Tenet", path = "T/Tenet" }

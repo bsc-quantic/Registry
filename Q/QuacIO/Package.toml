@@ -1,0 +1,3 @@
+name = "QuacIO"
+uuid = "0dfb065c-ad45-4a42-9a50-cb82c165eb0b"
+repo = "https://github.com/bsc-quantic/QuacIO.jl"
