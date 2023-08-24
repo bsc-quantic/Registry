@@ -1,0 +1,3 @@
+name = "ImmutableArrays"
+uuid = "667c17eb-ab9b-4487-935f-1c621bb82497"
+repo = "https://github.com/bsc-quantic/ImmutableArrays.jl"
