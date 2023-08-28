@@ -42,3 +42,7 @@ NetworkLayout = "0.4"
 
 ["0.4-0"]
 julia = "1.9.0-1"
+
+["0.5-0"]
+AbstractTrees = "0.4"
+ImmutableArrays = "1.0.1-1"

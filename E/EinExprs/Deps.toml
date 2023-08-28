@@ -14,3 +14,7 @@ Tensors = "a57d67a0-4683-47ff-be60-6114e830558b"
 ["0.2-0.3"]
 ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
 FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
+
+["0.5-0"]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+ImmutableArrays = "667c17eb-ab9b-4487-935f-1c621bb82497"
