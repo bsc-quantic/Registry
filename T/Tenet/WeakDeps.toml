@@ -4,3 +4,8 @@ Quac = "b9105292-1415-45cf-bff1-d6ccf71e6143"
 
 ["0.1.1-0.1"]
 ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+
+["0.3-0"]
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+ChainRulesTestUtils = "cdddcdb0-9152-4a09-a978-84456f9df70a"
+FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
