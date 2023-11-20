@@ -24,3 +24,6 @@ ImmutableArrays = "667c17eb-ab9b-4487-935f-1c621bb82497"
 ["0.5.8-0"]
 KaHyPar = "2a6221f6-aa48-11e9-3542-2d9e0ef01880"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+["0.5.9-0"]
+Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
