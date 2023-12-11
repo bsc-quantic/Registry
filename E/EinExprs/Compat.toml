@@ -49,5 +49,9 @@ AbstractTrees = "0.4"
 ["0.5-0.5.7"]
 ImmutableArrays = "1.0.1-1"
 
-["0.5.8-0"]
+["0.5.10-0"]
+KaHyPar = "0.3.1-0.3"
+Suppressor = "0.2"
+
+["0.5.8-0.5.9"]
 KaHyPar = "0.3"
