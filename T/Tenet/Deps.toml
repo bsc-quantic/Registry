@@ -1,8 +1,6 @@
 [0]
 Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
 DeltaArrays = "10b0fc19-5ccc-4427-889b-d75dd6306188"
-GraphMakie = "1ecd5474-83a3-4783-bb4f-06765db800d2"
-Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 OMEinsum = "ebe7aa44-baf0-506c-a96f-8464559b3922"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
@@ -16,6 +14,10 @@ Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 
 ["0-0.3"]
 Permutations = "2ae35dd2-176d-5d53-8349-f30d82d94d4f"
+
+["0-0.4"]
+GraphMakie = "1ecd5474-83a3-4783-bb4f-06765db800d2"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 
 ["0.1.1-0"]
 EinExprs = "b1794770-133b-4de1-afb4-526377e9f4c5"
@@ -39,6 +41,8 @@ Bijections = "e2ed5e7c-b2de-5872-ae92-c73ca462fb04"
 ["0.3-0"]
 Muscle = "21fe5c4b-a943-414d-bf3e-516f24900631"
 
-["0.4-0"]
+["0.4"]
 ImmutableArrays = "667c17eb-ab9b-4487-935f-1c621bb82497"
+
+["0.4-0"]
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
