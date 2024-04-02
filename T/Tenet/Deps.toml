@@ -46,3 +46,6 @@ ImmutableArrays = "667c17eb-ab9b-4487-935f-1c621bb82497"
 
 ["0.4-0"]
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+["0.5.4-0"]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
