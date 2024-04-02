@@ -1,6 +1,5 @@
 [0]
 Combinatorics = "1"
-OMEinsum = "0.7"
 
 ["0-0.1.0"]
 GraphMakie = "0.4"
@@ -15,6 +14,9 @@ Requires = "1.3.0-1"
 
 ["0-0.4"]
 Graphs = "1.7.0-1"
+
+["0-0.5.3"]
+OMEinsum = "0.7"
 
 ["0.1.1-0.1"]
 ChainRulesCore = "1.15.0-1"
@@ -63,3 +65,7 @@ UUIDs = "1.9.0-1"
 
 ["0.5-0"]
 EinExprs = "0.5-0.6"
+
+["0.5.4-0"]
+AbstractTrees = "0.4"
+OMEinsum = "0.7-0.8"
