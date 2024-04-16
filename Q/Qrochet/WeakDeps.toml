@@ -1,0 +1,4 @@
+[0]
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+ChainRulesTestUtils = "cdddcdb0-9152-4a09-a978-84456f9df70a"
+Quac = "b9105292-1415-45cf-bff1-d6ccf71e6143"
