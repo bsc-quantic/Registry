@@ -9,6 +9,7 @@ description = "Registry of packages developed at BSC-Quantic group"
 667c17eb-ab9b-4487-935f-1c621bb82497 = { name = "ImmutableArrays", path = "I/ImmutableArrays" }
 6bcc0789-44bc-4f47-9004-c8ca82614e89 = { name = "Lexers", path = "L/Lexers" }
 85d41934-b9cd-44e1-8730-56d86f15f3ec = { name = "Tenet", path = "T/Tenet" }
+881a8f22-b5d0-48b0-96e5-a244b33f36d4 = { name = "Qrochet", path = "Q/Qrochet" }
 8a0c07fa-ade5-4b2a-b81a-b192b2bedf88 = { name = "Extrae", path = "E/Extrae" }
 a57d67a0-4683-47ff-be60-6114e830558b = { name = "Tensors", path = "T/Tensors" }
 a795f257-962b-4b39-a4d8-031342f4c2f3 = { name = "Inherit", path = "I/Inherit" }
