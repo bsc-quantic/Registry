@@ -14,5 +14,6 @@ description = "Registry of packages developed at BSC-Quantic group"
 a57d67a0-4683-47ff-be60-6114e830558b = { name = "Tensors", path = "T/Tensors" }
 a795f257-962b-4b39-a4d8-031342f4c2f3 = { name = "Inherit", path = "I/Inherit" }
 b1794770-133b-4de1-afb4-526377e9f4c5 = { name = "EinExprs", path = "E/EinExprs" }
+b7eb675e-0b4b-4697-b10d-3f3487e0fa0a = { name = "Albacea", path = "A/Albacea" }
 b9105292-1415-45cf-bff1-d6ccf71e6143 = { name = "Quac", path = "Q/Quac" }
 d089a002-103b-496c-a4e3-58f90cf955b0 = { name = "BijectiveDicts", path = "B/BijectiveDicts" }
