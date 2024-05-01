@@ -32,11 +32,11 @@ IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
 NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 Tensors = "a57d67a0-4683-47ff-be60-6114e830558b"
 
-["0.2-0"]
-ValSplit = "0625e100-946b-11ec-09cd-6328dd093154"
-
 ["0.2-0.3"]
 Bijections = "e2ed5e7c-b2de-5872-ae92-c73ca462fb04"
+
+["0.2-0.5"]
+ValSplit = "0625e100-946b-11ec-09cd-6328dd093154"
 
 ["0.3-0"]
 Muscle = "21fe5c4b-a943-414d-bf3e-516f24900631"
