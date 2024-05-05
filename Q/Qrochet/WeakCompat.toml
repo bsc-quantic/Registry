@@ -1,3 +1,6 @@
 [0]
 ChainRulesCore = "1"
 Quac = "0.3"
+
+["0.1.2-0"]
+Yao = "0.8"
