@@ -27,7 +27,7 @@ jobs:
           - '1.8'
           - '1.9'
           - '1.10'
-          - 'nightly'
+          - '1.11'
     steps:
       - uses: actions/checkout@v4
       - uses: julia-actions/setup-julia@v1
