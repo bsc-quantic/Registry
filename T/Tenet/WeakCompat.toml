@@ -29,3 +29,6 @@ ChainRulesTestUtils = "1"
 Dagger = "0.18"
 FiniteDifferences = "0.12"
 Makie = "0.18-0.21"
+
+["0.6.6-0"]
+Reactant = "0.1"
