@@ -51,11 +51,13 @@ ValSplit = "0.1"
 
 ["0.3-0"]
 DeltaArrays = "0.1.1-0.1"
-Muscle = "0.1"
 julia = "1.9.0-1"
 
 ["0.3-0.4"]
 EinExprs = "0.5.5-0.5"
+
+["0.3-0.6"]
+Muscle = "0.1"
 
 ["0.4-0"]
 LinearAlgebra = "1.9.0-1"
@@ -72,3 +74,6 @@ OMEinsum = "0.7-0.8"
 
 ["0.6.6-0"]
 ScopedValues = "1"
+
+["0.7-0"]
+Muscle = "0.2"
