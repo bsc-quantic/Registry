@@ -27,3 +27,8 @@ Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
 
 ["0.6.4-0"]
 Reactant = "3c362404-f566-11ee-1572-e11a4b42c853"
+
+["0.7-0"]
+KrylovKit = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
+Quac = "b9105292-1415-45cf-bff1-d6ccf71e6143"
+Yao = "5872b779-8223-5990-8dd0-5abbb0748c8c"
