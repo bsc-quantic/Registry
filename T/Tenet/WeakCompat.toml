@@ -32,7 +32,7 @@ FiniteDifferences = "0.12"
 ["0.6.3 - 0.7.5"]
 Makie = "0.18-0.21"
 
-["0.6.6 - 0"]
+["0.6.6 - 0.7"]
 Reactant = "0.1"
 
 ["0.7 - 0"]
@@ -44,7 +44,19 @@ Yao = "0.8-0.9"
 
 ["0.7.6 - 0"]
 GraphMakie = "0.4 - 0.5"
+
+["0.7.6 - 0.7"]
 Graphs = "1.7.0 - 1"
 KrylovKit = "0.8.1 - 0.8"
 Makie = "0.18 - 0.21"
 Yao = "0.8 - 0.9"
+
+["0.8 - 0"]
+ITensorMPS = "0.2 - 0.3"
+ITensorNetworks = "0.11"
+ITensors = "0.6"
+KrylovKit = "0.7 - 0.9"
+Makie = "0.18 - 0.22"
+PythonCall = "0.9"
+Reactant = "0.2.18 - 0.2"
+YaoBlocks = "0.13"
