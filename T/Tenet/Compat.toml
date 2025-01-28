@@ -86,10 +86,23 @@ Serialization = "1.9.0-1"
 ["0.7.6 - 0"]
 DeltaArrays = "0.1.1 - 0.1"
 EinExprs = "0.5 - 0.6"
-LinearAlgebra = "1.9.0 - 1"
 OMEinsum = "0.7 - 0.8"
+
+["0.7.6 - 0.7"]
+LinearAlgebra = "1.9.0 - 1"
 Random = "1.9.0 - 1"
 Serialization = "1.9.0 - 1"
 SparseArrays = "1.9.0 - 1"
 UUIDs = "1.9.0 - 1"
 julia = "1.9.0 - 1"
+
+["0.8 - 0"]
+BijectiveDicts = "0.2.1 - 0.2"
+Compat = "4.10.0 - 4"
+Graphs = "1.7.0 - 1"
+LinearAlgebra = "1.10.0 - 1"
+Random = "1.10.0 - 1"
+Serialization = "1.10.0 - 1"
+SparseArrays = "1.10.0 - 1"
+UUIDs = "1.10.0 - 1"
+julia = "1.10.0 - 1"

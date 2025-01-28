@@ -55,3 +55,8 @@ ScopedValues = "7e506255-f358-4e82-b7e4-beb19740aa63"
 
 ["0.7.2 - 0"]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+["0.8 - 0"]
+BijectiveDicts = "d089a002-103b-496c-a4e3-58f90cf955b0"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
