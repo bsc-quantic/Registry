@@ -54,9 +54,15 @@ Yao = "0.8 - 0.9"
 ["0.8 - 0"]
 ITensorMPS = "0.2 - 0.3"
 ITensorNetworks = "0.11"
-ITensors = "0.6"
 KrylovKit = "0.7 - 0.9"
 Makie = "0.18 - 0.22"
 PythonCall = "0.9"
-Reactant = "0.2.18 - 0.2"
 YaoBlocks = "0.13"
+
+["0.8.0"]
+ITensors = "0.6"
+Reactant = "0.2.18 - 0.2"
+
+["0.8.1 - 0"]
+ITensors = "0.6 - 0.8"
+Reactant = "0.2.22 - 0.2"
