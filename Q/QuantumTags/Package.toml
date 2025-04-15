@@ -1,0 +1,3 @@
+name = "QuantumTags"
+uuid = "2406e0f5-9e5e-4424-966e-8bc9c78b228f"
+repo = "https://github.com/bsc-quantic/QuantumTags.jl"
