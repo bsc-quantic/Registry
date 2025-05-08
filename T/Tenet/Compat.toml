@@ -86,7 +86,6 @@ Serialization = "1.9.0-1"
 ["0.7.6 - 0"]
 DeltaArrays = "0.1.1 - 0.1"
 EinExprs = "0.5 - 0.6"
-OMEinsum = "0.7 - 0.8"
 
 ["0.7.6 - 0.7"]
 LinearAlgebra = "1.9.0 - 1"
@@ -95,6 +94,9 @@ Serialization = "1.9.0 - 1"
 SparseArrays = "1.9.0 - 1"
 UUIDs = "1.9.0 - 1"
 julia = "1.9.0 - 1"
+
+["0.7.6 - 0.8.3"]
+OMEinsum = "0.7 - 0.8"
 
 ["0.8 - 0"]
 BijectiveDicts = "0.2.1 - 0.2"
@@ -106,3 +108,6 @@ Serialization = "1.10.0 - 1"
 SparseArrays = "1.10.0 - 1"
 UUIDs = "1.10.0 - 1"
 julia = "1.10.0 - 1"
+
+["0.8.4 - 0"]
+OMEinsum = "0.8.6 - 0.8"
