@@ -8,6 +8,7 @@ description = "Registry of packages developed at BSC-Quantic group"
 21fe5c4b-a943-414d-bf3e-516f24900631 = { name = "Muscle", path = "M/Muscle" }
 2406e0f5-9e5e-4424-966e-8bc9c78b228f = { name = "QuantumTags", path = "Q/QuantumTags" }
 2cc23cfe-e55e-4940-9d06-ab16fa76dba6 = { name = "TenetCore", path = "T/TenetCore" }
+634dcf3f-6aa7-47ba-9e85-1fb329c9ebfe = { name = "Networks", path = "N/Networks" }
 667c17eb-ab9b-4487-935f-1c621bb82497 = { name = "ImmutableArrays", path = "I/ImmutableArrays" }
 6bcc0789-44bc-4f47-9004-c8ca82614e89 = { name = "Lexers", path = "L/Lexers" }
 85d41934-b9cd-44e1-8730-56d86f15f3ec = { name = "Tenet", path = "T/Tenet" }
