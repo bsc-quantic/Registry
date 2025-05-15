@@ -7,5 +7,9 @@ ChainRulesCore = "1"
 ["0.2.1 - 0"]
 Dagger = "0.18"
 
-["0.3 - 0"]
+["0.3 - 0.3.1"]
 Reactant = "0.2"
+
+["0.3.2 - 0"]
+QuantumTags = "0.1.4 - 0.1"
+Reactant = "0.2.104 - 0.2"
