@@ -20,3 +20,4 @@ b1794770-133b-4de1-afb4-526377e9f4c5 = { name = "EinExprs", path = "E/EinExprs" 
 b7eb675e-0b4b-4697-b10d-3f3487e0fa0a = { name = "Albacea", path = "A/Albacea" }
 b9105292-1415-45cf-bff1-d6ccf71e6143 = { name = "Quac", path = "Q/Quac" }
 d089a002-103b-496c-a4e3-58f90cf955b0 = { name = "BijectiveDicts", path = "B/BijectiveDicts" }
+d83dbd90-3e00-4b33-84f1-398adcf3b35e = { name = "DelegatorTraits", path = "D/DelegatorTraits" }
