@@ -122,4 +122,9 @@ Muscle = "0.3.6 - 0.3"
 Networks = "0.2.3 - 0.2"
 QuantumTags = "0.1.5 - 0.1"
 Reexport = "1.2.2 - 1"
+
+["0.9.0"]
 TenetCore = "0.4.5 - 0.4"
+
+["0.9.1 - 0"]
+Tangles = "0.2"

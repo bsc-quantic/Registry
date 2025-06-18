@@ -73,4 +73,9 @@ Muscle = "21fe5c4b-a943-414d-bf3e-516f24900631"
 Networks = "634dcf3f-6aa7-47ba-9e85-1fb329c9ebfe"
 QuantumTags = "2406e0f5-9e5e-4424-966e-8bc9c78b228f"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+["0.9.0"]
 TenetCore = "2cc23cfe-e55e-4940-9d06-ab16fa76dba6"
+
+["0.9.1 - 0"]
+Tangles = "d2150e0e-da4c-4196-bcf0-8e0aeaf6db16"
