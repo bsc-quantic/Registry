@@ -1,7 +1,4 @@
 [0]
-Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
-DeltaArrays = "10b0fc19-5ccc-4427-889b-d75dd6306188"
-OMEinsum = "ebe7aa44-baf0-506c-a96f-8464559b3922"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 ["0 - 0.1.0"]
@@ -19,10 +16,13 @@ Permutations = "2ae35dd2-176d-5d53-8349-f30d82d94d4f"
 GraphMakie = "1ecd5474-83a3-4783-bb4f-06765db800d2"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 
+["0 - 0.8"]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DeltaArrays = "10b0fc19-5ccc-4427-889b-d75dd6306188"
+OMEinsum = "ebe7aa44-baf0-506c-a96f-8464559b3922"
+
 ["0.1.1 - 0"]
-EinExprs = "b1794770-133b-4de1-afb4-526377e9f4c5"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 
 ["0.1.1 - 0.1"]
 ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
@@ -31,6 +31,10 @@ ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
 IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
 NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 Tensors = "a57d67a0-4683-47ff-be60-6114e830558b"
+
+["0.1.1 - 0.8"]
+EinExprs = "b1794770-133b-4de1-afb4-526377e9f4c5"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 
 ["0.2 - 0.3"]
 Bijections = "e2ed5e7c-b2de-5872-ae92-c73ca462fb04"
@@ -44,19 +48,29 @@ Muscle = "21fe5c4b-a943-414d-bf3e-516f24900631"
 ["0.4"]
 ImmutableArrays = "667c17eb-ab9b-4487-935f-1c621bb82497"
 
-["0.4 - 0"]
+["0.4 - 0.8"]
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
-["0.5.4 - 0"]
+["0.5.4 - 0.8"]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
 
-["0.6.6 - 0"]
+["0.6.6 - 0.8"]
 ScopedValues = "7e506255-f358-4e82-b7e4-beb19740aa63"
 
-["0.7.2 - 0"]
+["0.7.2 - 0.8"]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 
-["0.8 - 0"]
+["0.8"]
 BijectiveDicts = "d089a002-103b-496c-a4e3-58f90cf955b0"
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+
+["0.9 - 0"]
+ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
+Bijections = "e2ed5e7c-b2de-5872-ae92-c73ca462fb04"
+DelegatorTraits = "d83dbd90-3e00-4b33-84f1-398adcf3b35e"
+Muscle = "21fe5c4b-a943-414d-bf3e-516f24900631"
+Networks = "634dcf3f-6aa7-47ba-9e85-1fb329c9ebfe"
+QuantumTags = "2406e0f5-9e5e-4424-966e-8bc9c78b228f"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+TenetCore = "2cc23cfe-e55e-4940-9d06-ab16fa76dba6"
