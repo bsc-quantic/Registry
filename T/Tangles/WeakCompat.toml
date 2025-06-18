@@ -1,0 +1,7 @@
+[0]
+Adapt = "4"
+FiniteDifferences = "0.12"
+GraphMakie = "0.4 - 0.5"
+Graphs = "1.12.0 - 1"
+Makie = "0.20 - 0.23"
+Reactant = "0.2.118 - 0.2"
