@@ -2,13 +2,19 @@
 ArgCheck = "2.5.0 - 2"
 Bijections = "0.2.1 - 0.2"
 DelegatorTraits = "0.1.2 - 0.1"
-EinExprs = "0.6.8 - 0.6"
 LinearAlgebra = "1.10.0 - 1"
 Muscle = "0.3.4 - 0.3"
-Networks = "0.2.3 - 0.2"
 QuantumTags = "0.1.2 - 0.1"
 Random = "1.10.0 - 1"
 Reexport = "1.2.2 - 1"
 Serialization = "1.10.0 - 1"
 UUIDs = "1.10.0 - 1"
 ValSplit = "0.1.1 - 0.1"
+
+["0 - 0.2.2"]
+EinExprs = "0.6.8 - 0.6"
+Networks = "0.2.3 - 0.2"
+
+["0.2.3 - 0"]
+EinExprs = "0.6.8 - 0.7"
+Networks = "0.2.3 - 0.3"
