@@ -14,3 +14,6 @@ Strided = "5e0ebb24-38b0-5f93-81fe-25c709ecae67"
 StridedViews = "4db3bf67-4bd7-4b4e-b153-31dc3fb37143"
 cuTENSOR = "011b41b2-24ef-40a8-b3eb-fa098493e9e1"
 cuTensorNet = "448d79b3-4b49-4e06-a5ea-00c62c0dc3db"
+
+["0.3.8 - 0"]
+VectorInterface = "409d34a3-91d5-4945-b6ec-7529ddf182d8"
