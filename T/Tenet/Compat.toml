@@ -34,6 +34,11 @@ julia = "1.8.0-1"
 ["0.1.1 - 0.3"]
 Permutations = "0.4"
 
+["0.10 - 0"]
+Muscle = "0.3.9 - 0.3"
+QuantumTags = "0.3"
+Tangles = "0.2.7 - 0.2"
+
 ["0.2"]
 EinExprs = "0.2"
 Makie = "0.18-0.19"
@@ -114,17 +119,19 @@ julia = "1.10.0 - 1"
 ["0.8.4 - 0.8"]
 OMEinsum = "0.8.6 - 0.8"
 
+["0.9"]
+Muscle = "0.3.6 - 0.3"
+QuantumTags = "0.1.5 - 0.1"
+
 ["0.9 - 0"]
 ArgCheck = "2.5.0 - 2"
 Bijections = "0.2.1 - 0.2"
 DelegatorTraits = "0.1.2 - 0.1"
-Muscle = "0.3.6 - 0.3"
 Networks = "0.2.3 - 0.2"
-QuantumTags = "0.1.5 - 0.1"
 Reexport = "1.2.2 - 1"
 
 ["0.9.0"]
 TenetCore = "0.4.5 - 0.4"
 
-["0.9.1 - 0"]
+["0.9.1 - 0.9"]
 Tangles = "0.2"
