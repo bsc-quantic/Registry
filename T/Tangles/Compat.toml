@@ -23,3 +23,6 @@ Networks = "0.2.3 - 0.3"
 
 ["0.2.5 - 0"]
 QuantumTags = "0.3"
+
+["0.2.9 - 0"]
+PrecompileTools = "1.2.1 - 1"
