@@ -36,6 +36,9 @@ Tensors = "a57d67a0-4683-47ff-be60-6114e830558b"
 EinExprs = "b1794770-133b-4de1-afb4-526377e9f4c5"
 UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 
+["0.10.1 - 0"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
 ["0.2 - 0.3"]
 Bijections = "e2ed5e7c-b2de-5872-ae92-c73ca462fb04"
 
