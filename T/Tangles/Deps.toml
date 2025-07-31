@@ -15,5 +15,8 @@ UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 ["0 - 0.2.11"]
 ValSplit = "0625e100-946b-11ec-09cd-6328dd093154"
 
+["0.2.16 - 0"]
+DeltaArrays = "10b0fc19-5ccc-4427-889b-d75dd6306188"
+
 ["0.2.9 - 0"]
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
