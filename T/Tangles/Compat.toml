@@ -25,6 +25,9 @@ QuantumTags = "0.4"
 ["0.2.14 - 0"]
 QuantumTags = "0.4.3 - 0.4"
 
+["0.2.16 - 0"]
+DeltaArrays = "0.1.1 - 0.1"
+
 ["0.2.3 - 0"]
 EinExprs = "0.6.8 - 0.7"
 Networks = "0.2.3 - 0.3"
